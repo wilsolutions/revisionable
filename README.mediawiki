@@ -7,7 +7,7 @@ This plugin is pretty easy to use
 
 ===Setup===
 1) First you need to add the table to your project  use the following to generate that
-	'''cake schema create Revisionable.revision'''
+	'''cake schema create Revisionable.revisions'''
 
 2) add the behavior to your model like so 
 
